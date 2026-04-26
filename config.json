@@ -1,0 +1,34 @@
+{
+  "pdf_settings": {
+    "Invite.pdf": {
+      "x": 20,
+      "y": 265,
+      "box_width": 450,
+      "box_height": 25,
+      "line1_x": 227,
+      "line1_y": 476,
+      "line1_length": 30,
+      "line2_x": 180,
+      "line2_y": 476,
+      "line2_length": 30
+    },
+    "Invitation.pdf": {
+      "x": 20,
+      "y": 142,
+      "box_width": 450,
+      "box_height": 25,
+      "line1_x": 50,
+      "line1_y": 513,
+      "line1_length": 30,
+      "line2_x": 95,
+      "line2_y": 513,
+      "line2_length": 30
+    }
+  },
+  "guest_lists": {
+    "Invite.pdf": [
+    ],
+    "Invitation.pdf": [
+    ]
+  }
+}
